@@ -1,0 +1,55 @@
+﻿  Animation.c
+  AnimationState.c
+  AnimationStateData.c
+  Atlas.c
+  AtlasAttachmentLoader.c
+  Attachment.c
+  AttachmentLoader.c
+  Bone.c
+  BoneData.c
+  BoundingBoxAttachment.c
+  Event.c
+  EventData.c
+  extension.c
+  IkConstraint.c
+  IkConstraintData.c
+  Json.c
+  MeshAttachment.c
+  RegionAttachment.c
+  Skeleton.c
+  SkeletonBounds.c
+  SkeletonData.c
+  SkeletonJson.c
+  Skin.c
+  SkinnedMeshAttachment.c
+  Slot.c
+  SlotData.c
+  PolygonBatch.cpp
+  SkeletonAnimation.cpp
+  SkeletonRenderer.cpp
+  spine-cocos2dx.cpp
+c:\cocosproj\idol\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonRenderer.cpp)
+c:\cocosproj\idol\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\PolygonBatch.cpp)
+c:\cocosproj\idol\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonAnimation.cpp)
+c:\cocosproj\idol\cocos2d\cocos\base\ccutf8.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\spine-cocos2dx.cpp)
+c:\cocosproj\idol\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonRenderer.cpp)
+c:\cocosproj\idol\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\PolygonBatch.cpp)
+c:\cocosproj\idol\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\SkeletonAnimation.cpp)
+c:\cocosproj\idol\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\spine-cocos2dx.cpp)
+c:\cocosproj\idol\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(252): warning C4996: 'cocos2d::DrawPrimitives::setDrawColor4B': が古い形式として宣言されました。
+  c:\cocosproj\idol\cocos2d\cocos\2d\ccdrawingprimitives.h(245): note: 'cocos2d::DrawPrimitives::setDrawColor4B' の宣言を確認してください
+c:\cocosproj\idol\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(265): warning C4996: 'cocos2d::DrawPrimitives::drawPoly': が古い形式として宣言されました。
+  c:\cocosproj\idol\cocos2d\cocos\2d\ccdrawingprimitives.h(142): note: 'cocos2d::DrawPrimitives::drawPoly' の宣言を確認してください
+c:\cocosproj\idol\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(271): warning C4996: 'cocos2d::DrawPrimitives::setDrawColor4B': が古い形式として宣言されました。
+  c:\cocosproj\idol\cocos2d\cocos\2d\ccdrawingprimitives.h(245): note: 'cocos2d::DrawPrimitives::setDrawColor4B' の宣言を確認してください
+c:\cocosproj\idol\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(276): warning C4996: 'cocos2d::DrawPrimitives::drawLine': が古い形式として宣言されました。
+  c:\cocosproj\idol\cocos2d\cocos\2d\ccdrawingprimitives.h(115): note: 'cocos2d::DrawPrimitives::drawLine' の宣言を確認してください
+c:\cocosproj\idol\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(279): warning C4996: 'cocos2d::DrawPrimitives::setPointSize': が古い形式として宣言されました。
+  c:\cocosproj\idol\cocos2d\cocos\2d\ccdrawingprimitives.h(263): note: 'cocos2d::DrawPrimitives::setPointSize' の宣言を確認してください
+c:\cocosproj\idol\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(280): warning C4996: 'cocos2d::DrawPrimitives::setDrawColor4B': が古い形式として宣言されました。
+  c:\cocosproj\idol\cocos2d\cocos\2d\ccdrawingprimitives.h(245): note: 'cocos2d::DrawPrimitives::setDrawColor4B' の宣言を確認してください
+c:\cocosproj\idol\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(283): warning C4996: 'cocos2d::DrawPrimitives::drawPoint': が古い形式として宣言されました。
+  c:\cocosproj\idol\cocos2d\cocos\2d\ccdrawingprimitives.h(100): note: 'cocos2d::DrawPrimitives::drawPoint' の宣言を確認してください
+c:\cocosproj\idol\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(284): warning C4996: 'cocos2d::DrawPrimitives::setDrawColor4B': が古い形式として宣言されました。
+  c:\cocosproj\idol\cocos2d\cocos\2d\ccdrawingprimitives.h(245): note: 'cocos2d::DrawPrimitives::setDrawColor4B' の宣言を確認してください
+  libSpine.vcxproj -> C:\cocosproj\Idol\proj.win32\Debug.win32\libSpine.lib
