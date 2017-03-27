@@ -1,0 +1,14 @@
+*.json
+IdolGame01/CMakeLists.txt
+IdolGame01/cocos2d/
+IdolGame01/proj.win10/App/Cocos2dEngine/Cocos2dRenderer.h
+IdolGame01/proj.win10/App/Cocos2dEngine/OpenGLES.cpp
+IdolGame01/proj.win10/App/Cocos2dEngine/
+IdolGame01/proj.win10/App/
+IdolGame01/proj.win32/
+IdolGame01/proj.win10/
+IdolGame01/proj.linux/
+IdolGame01/proj.win8.1-universal/
+IdolGame01/proj.ios_mac/
+IdolGame01/proj.android-studio/
+IdolGame01/proj.android/
